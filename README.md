@@ -1,6 +1,6 @@
 ![MasterHead](https://d1csarkz8obe9u.cloudfront.net/posterpreviews/free-google-classroom-banner-template-design-df5e76bfa478908057fd215227e2c284_screen.jpg?ts=1614075608)]
 <h1 align="center">Hi 👋, I'm Geu Aguto Garang</h1>
-<h3 align="center">A passionate Frontend Developer, Machine Learning Engineer and Data Analyst from South Sudan</h3>
+<h3 align="center">I'm a front-end developer, Junior Machine Learning Engineer and Data Analyst from South Sudan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geu-pro2023&label=Profile%20views&color=0e75b6&style=flat" alt="geu-pro2023" /> </p>
 
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/geuagutogarang" target="blank"><img src="https://img.shields.io/twitter/follow/geuagutogarang?logo=twitter&style=for-the-badge" alt="geuagutogarang" /></a> </p>
 
-- 🔭 I’m currently working on **Front-end, portfolio ALU projects**
+- 🔭 I’m currently working on **Web Development Projects, Machine Learning techniques and Data analytic projects**
 
-- 🌱 I’m currently learning **Node.js and React**
+- 🌱 I’m currently learning **Python Libraries for Machine Learning and Data Science (numpy, pandas and Matplotlib**
 
 - 👯 I’m looking to collaborate on **Machine Learning projects with students from ALU and outside ALU**
 
-- 💬 Ask me about **Feel free to talk to me**
+- 💬 Ask me about **Python, SQL and (HTML,CSS and Javascript)**
 
 - 📫 How to reach me **g.bior@alustudent.com**
 
