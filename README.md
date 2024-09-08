@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/imgres?q=class%20of%202025%20alu&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51oITkgWeeL._AC_UF894%2C1000_QL80_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com%2FMulticolor-Class-2025-Balloons-Decorations%2Fdp%2FB0D75Y3RBG&docid=lk24tvgjp5lwQM&tbnid=owxihpQM6nK-9M&vet=12ahUKEwjz2fjf-7KIAxV1BNsEHWiOOwAQM3oECBgQAA..i&w=894&h=562&hcb=2&ved=2ahUKEwjz2fjf-7KIAxV1BNsEHWiOOwAQM3oECBgQAA)]
+![MasterHead](https://d1csarkz8obe9u.cloudfront.net/posterpreviews/free-google-classroom-banner-template-design-df5e76bfa478908057fd215227e2c284_screen.jpg?ts=1614075608)]
 <h1 align="center">Hi 👋, I'm Geu Aguto Garang</h1>
 <h3 align="center">I'm currently doing Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
