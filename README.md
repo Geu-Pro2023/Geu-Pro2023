@@ -1,6 +1,6 @@
 ![MasterHead](https://d1csarkz8obe9u.cloudfront.net/posterpreviews/free-google-classroom-banner-template-design-df5e76bfa478908057fd215227e2c284_screen.jpg?ts=1614075608)]
 <h1 align="center">Hi 👋, I'm Geu Aguto Garang</h1>
-<h3 align="center">I'm currently doing Machine Learning and Data Science</h3>
+<h3 align="center">I'm currently doing Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geu-pro2023&label=Profile%20views&color=0e75b6&style=flat" alt="geu-pro2023" /> </p>
 
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/geuagutogarang" target="blank"><img src="https://img.shields.io/twitter/follow/geuagutogarang?logo=twitter&style=for-the-badge" alt="geuagutogarang" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning techniques, and Data analytic projects**
+- 🔭 I’m currently working on **Machine Learning basic projects**
 
-- 🌱 I’m currently learning **Python Libraries for Machine Learning and Data Science (numpy, pandas, matplotlib and many more)**
+- 🌱 I’m currently learning **Python Libraries for Machine Learning and Mathematics (Linear Algebra, Calculus, Statistic & Probability**
 
 - 👯 I’m looking to collaborate on **Machine Learning projects with students from ALU and outside ALU**
 
-- 💬 Ask me about **Python, SQL (HTML, CSS, and Javascript)**
+- 💬 Ask me about **Python, R and Basic Frontend**
 
 - 📫 How to reach me **g.bior@alustudent.com**
 
