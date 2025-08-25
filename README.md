@@ -1,6 +1,6 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2LGM/giphy.gif" alt="Coding Banner" width="900" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVtb2tidjliZzJsbWQ4djR0bWlhdXpycTZkdjVteWd0ZTlwbW11aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="900" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Geu Aguto Garang</h1>
