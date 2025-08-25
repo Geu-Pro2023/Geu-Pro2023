@@ -5,12 +5,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Geu-Pro2023&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=Geu-Pro2023&theme=radical&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</a>
 ---
 
 ## 👨‍💻 About Me  
