@@ -4,10 +4,10 @@
 <h3 align="center">Software Engineering Student | Machine Learning Enthusiast | Open Source Contributor</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=Geu-Pro2023&theme=radical&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</a>
+---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Geu-Pro2023&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
