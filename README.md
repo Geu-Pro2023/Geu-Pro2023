@@ -5,13 +5,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=geu-pro2023&label=Profile%20Views&color=0e75b6&style=flat" alt="geu-pro2023" />
-</p>
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=geu-pro2023" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=geu-pro2023&theme=radical&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Profile Trophy" />
   </a>
 </p>
 
