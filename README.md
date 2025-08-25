@@ -1,6 +1,6 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="assets/banner.gif" alt="MasterHead" width="100%" />
+  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2LGM/giphy.gif" alt="Coding Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Geu Aguto Garang</h1>
