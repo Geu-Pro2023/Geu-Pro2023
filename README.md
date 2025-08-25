@@ -1,10 +1,15 @@
-![MasterHead](https://d1csarkz8obe9u.cloudfront.net/posterpreviews/free-google-classroom-banner-template-design-df5e76bfa478908057fd215227e2c284_screen.jpg?ts=1614075608)
+<!-- Banner GIF -->
+<p align="center">
+  <img src="assets/banner.gif" alt="MasterHead" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Geu Aguto Garang</h1>
 <h3 align="center">Software Engineering Student | Machine Learning Enthusiast | Open Source Contributor</h3>
 
+<!-- Coding GIF -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
----
+
+<!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Geu-Pro2023&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -14,9 +19,9 @@
 ## 👨‍💻 About Me  
 I’m a **Software Engineering student at African Leadership University, Rwanda**, specializing in **Machine Learning and Data Science**.  
 
-- 🔭 Currently building **machine learning models** and **full-stack applications**.  
-- 🌱 Learning advanced **AI techniques** and **data-driven analytics**.  
-- 💡 Passionate about applying ML to **real-world challenges** like **wildlife conservation** and **education technology**.  
+- 🔭 Building **machine learning models**, **chatbots**, and **full-stack applications**.  
+- 🌱 Exploring advanced **AI techniques** and **data-driven analytics**.  
+- 💡 Passionate about using ML for **real-world challenges** like **wildlife conservation**.  
 - 🤝 Open to collaborating on **open-source projects** and **ML research initiatives**.  
 - 📫 Reach me:  
   - **School Email:** g.bior@alustudent.com  
@@ -27,11 +32,9 @@ I’m a **Software Engineering student at African Leadership University, Rwanda*
 ---
 
 ## 🚀 Featured Projects  
-Here are some projects I’ve worked on:  
-
-- 🌦️ [**Weather Classification Model**](https://github.com/Geu-Pro2023/alu-machine_learning) – Image-based weather condition classifier.  
-- 🤖 [**Domain-specific Q&A Chatbot**](https://github.com/Geu-Pro2023/linear_regression_model) – NLP-based chatbot trained on curated datasets.  
-- 🐍 [**Python Higher-Level Programming**](https://github.com/Geu-Pro2023/alu-higher_level_programming) – A collection of exercises and projects in Python.  
+- 🌦️ [**Weather Classification Model**](https://github.com/Geu-Pro2023/alu-machine_learning) – Image-based weather classifier.  
+- 🤖 [**Domain-specific Q&A Chatbot**](https://github.com/Geu-Pro2023/linear_regression_model) – NLP chatbot trained on curated datasets.  
+- 🐍 [**Python Higher-Level Programming**](https://github.com/Geu-Pro2023/alu-higher_level_programming) – Exercises and projects in Python.  
 
 ➡️ Explore more on my [GitHub Repositories](https://github.com/Geu-Pro2023?tab=repositories).  
 
@@ -39,12 +42,12 @@ Here are some projects I’ve worked on:
 
 ## 🌐 Connect With Me  
 <p align="left">
-  <a href="https://twitter.com/geuagutogarang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/geuagutogarang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://kaggle.com/geuaguto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
-  <a href="https://fb.com/geuaguto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/geuaguto1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/geuagutogarang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
+  <a href="https://twitter.com/geuagutogarang" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/geuagutogarang" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40" /></a>
+  <a href="https://kaggle.com/geuaguto" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" height="30" width="40" /></a>
+  <a href="https://fb.com/geuaguto" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" height="30" width="40" /></a>
+  <a href="https://instagram.com/geuaguto1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/geuagutogarang" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" height="30" width="40" /></a>
 </p>
 
 ---
@@ -65,6 +68,6 @@ Here are some projects I’ve worked on:
 ---
 
 ## 📊 GitHub Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geu-pro2023&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geu-pro2023&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geu-pro2023&" alt="GitHub Streak" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Geu-Pro2023&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Geu-Pro2023&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Geu-Pro2023&" alt="GitHub Streak" /></p>
