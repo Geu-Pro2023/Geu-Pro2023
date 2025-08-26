@@ -1,6 +1,6 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVtb2tidjliZzJsbWQ4djR0bWlhdXpycTZkdjVteWd0ZTlwbW11aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="600" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVtb2tidjliZzJsbWQ4djR0bWlhdXpycTZkdjVteWd0ZTlwbW11aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="500" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Geu Aguto Garang</h1>
@@ -32,8 +32,8 @@ I’m a **Software Engineering student at African Leadership University, Rwanda*
 ---
 
 ## 🚀 Featured Projects  
-- 🌦️ [**Weather Classification Model**](https://github.com/Geu-Pro2023/alu-machine_learning) – Image-based weather classifier.  
-- 🤖 [**Domain-specific Q&A Chatbot**](https://github.com/Geu-Pro2023/linear_regression_model) – NLP chatbot trained on curated datasets.  
+- 🌦️ [**Weather Classification Model**](https://github.com/Geu-Pro2023/IndabaX_Hackathon_South-Sudan) – Image-based weather classifier for Indabax Hackathon.  
+- 🤖 [**Domain-specific Q&A Chatbot**](https://github.com/Geu-Pro2023/Wildlife_Chatbot) – NLP chatbot trained on curated datasets.  
 - 🐍 [**Python Higher-Level Programming**](https://github.com/Geu-Pro2023/alu-higher_level_programming) – Exercises and projects in Python.  
 
 ➡️ Explore more on my [GitHub Repositories](https://github.com/Geu-Pro2023?tab=repositories).  
