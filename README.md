@@ -41,53 +41,23 @@ I’m a **Software Engineering student at African Leadership University, Rwanda*
 ---
 
 ## 🌐 Connect With Me  
-<style>
-  .social-icons {
-    display: flex;
-    gap: 15px;
-    align-items: center;
-  }
-
-  .social-icons a {
-    display: inline-block;
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-    overflow: hidden;
-    transition: transform 0.3s, box-shadow 0.3s;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
-  }
-
-  .social-icons a img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: block;
-  }
-
-  .social-icons a:hover {
-    transform: scale(1.2);
-    box-shadow: 0 8px 15px rgba(0,0,0,0.3);
-  }
-</style>
-
-<div class="social-icons">
+<p align="left" style="display: flex; gap: 10px; align-items: center;">
   <a href="https://x.com/GeuAgutoGarang?t=Ym81vRdc2j0eJXGkKozwAg&s=09" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/geu-aguto-garang-70248b269" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40" />
   </a>
   <a href="https://www.kaggle.com/geuagutogarang" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="Kaggle"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/geuaguto.garang.7" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/mr._geu/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" height="30" width="40" />
   </a>
-</div>
+</p>
 
 ---
 
