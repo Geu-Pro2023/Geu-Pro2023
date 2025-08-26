@@ -1,6 +1,6 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVtb2tidjliZzJsbWQ4djR0bWlhdXpycTZkdjVteWd0ZTlwbW11aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="900" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVtb2tidjliZzJsbWQ4djR0bWlhdXpycTZkdjVteWd0ZTlwbW11aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="600" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Geu Aguto Garang</h1>
@@ -41,21 +41,21 @@ I’m a **Software Engineering student at African Leadership University, Rwanda*
 ---
 
 ## 🌐 Connect With Me  
-<p align="left">
+<p align="left" style="display: flex; gap: 10px; align-items: center;">
   <a href="https://x.com/GeuAgutoGarang?t=Ym81vRdc2j0eJXGkKozwAg&s=09" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/geu-aguto-garang-70248b269" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40" />
   </a>
   <a href="https://www.kaggle.com/geuagutogarang" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/geuaguto.garang.7" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/mr._geu?igsh=MTAzYzBybnVjdDk5ZA==" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" height="30" width="40" />
+  <a href="https://www.instagram.com/mr._geu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" height="30" width="40" />
   </a>
 </p>
 
