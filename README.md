@@ -42,12 +42,21 @@ I’m a **Software Engineering student at African Leadership University, Rwanda*
 
 ## 🌐 Connect With Me  
 <p align="left">
-  <a href="https://twitter.com/geuagutogarang" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/geuagutogarang" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40" /></a>
-  <a href="https://kaggle.com/geuaguto" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" height="30" width="40" /></a>
-  <a href="https://fb.com/geuaguto" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/geuaguto1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/geuagutogarang" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" height="30" width="40" /></a>
+  <a href="https://x.com/GeuAgutoGarang?t=Ym81vRdc2j0eJXGkKozwAg&s=09" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/geu-aguto-garang-70248b269" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/geuagutogarang" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/geuaguto.garang.7" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/mr._geu?igsh=MTAzYzBybnVjdDk5ZA==" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" height="30" width="40" />
+  </a>
 </p>
 
 ---
